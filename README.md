@@ -1,6 +1,8 @@
 <div align="center">
-  <h1>Hello, I´m Julianna Mariano</h1>
+  <h1> Hi 👋, I'm Julianna Mariano</h1>
 </div >
+
+
 
 <!-- Tabela com informação -->
 <div align="center">
