@@ -7,8 +7,8 @@
 <!-- Tabela com informação -->
 <div align="center">
 <a href="https://github.com/juliannamariano">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannamariano&layout=compact&langs_count=7&theme=Merlot"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=juliannamariano&show_icons=true&theme=Merlot&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannamariano&layout=compact&langs_count=7&theme=transparent"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=juliannamariano&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
 
