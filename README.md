@@ -2,8 +2,8 @@
   <h1> Hi 👋, I'm Julianna Mariano</h1>
 </div >
 
-
-
+![snake gif](https://github.com/juliannamariano/juliannamariano/blob/output/github-contribution-grid-snake.gif)
+##
 <!-- Tabela com informação -->
 <div align="center">
 <a href="https://github.com/juliannamariano">
