@@ -22,7 +22,7 @@
 target="_blank"></a>-->
 
 <!-- Link do curriculo -->
-<a href="[https://www.canva.com/design/DAGPWi6Y4UM/udpBaFy-YShBAIzeoKZ7tw/edit?utm_content=DAGPWi6Y4UM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutto](https://docs.google.com/document/d/e/2PACX-1vTiNP9xYalTdgMPGgKhggAegh7MjJ-o54POPb2qH6Tv--VK-qVW8SGVs6JWuYkP8esUouVtHczWm3RO/pub)" target="_blank">
+<a href="https://docs.google.com/document/d/1Yap62EiTwmSoS8jYE9wzI9kBHUl_B6eRE1Z-J9BPMtY/edit?usp=sharing" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/-Curriculo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=" 
 target="_blank"></a>
 
