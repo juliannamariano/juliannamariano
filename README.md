@@ -1,33 +1,22 @@
-<div align="center">
-  <h1> Hi 👋, I'm Julianna Mariano💫</h1>
-</div >
+
+# Olá 👋,, sou a Julianna Mariano💫
+
+### 🎓 Sobre mim
+Olá! Sou **Julianna Mariano**, estudante de **Sistemas de Informação**. Comunicativa, dedicada e organizada, tenho grande interesse por **tecnologia e inovação**. Possuo **nível avançado de inglês** e estou sempre em busca de aprendizado.
+ ##
+
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juliannamariano&layout=compact&bg_color=#FFFFFF&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliannamariano&theme=transparent&bg_color=#FFFFFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000) 
+
+##
+
+📩 **Vamos nos conectar!** 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliannamariano/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/juliannamariano)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@juumarianoo/)
+[![Currículo](https://img.shields.io/badge/-Currículo-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)]()
 
 ![snake gif](https://github.com/juliannamariano/juliannamariano/blob/output/github-contribution-grid-snake.gif)
 ##
-<!-- Tabela com informação -->
-<div align="center">
-<a href="https://github.com/juliannamariano">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliannamariano&layout=compact&langs_count=7&theme=transparent"/>
-<!--<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=juliannamariano&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>-->
-</div>
-
-
-<!--Linha divisória -->
-##
-<div align="center">
-<!--<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-  
-<!--INSTAGRAM SEM ALTERAÇÃO<a href="LINK" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-target="_blank"></a>-->
-
-<!-- Link do curriculo -->
-<a href="https://docs.google.com/document/d/1Yap62EiTwmSoS8jYE9wzI9kBHUl_B6eRE1Z-J9BPMtY/edit?usp=sharing" target="_blank">
-<img loading="lazy" src="https://img.shields.io/badge/-Curriculo-%23E4405F?style=for-the-badge&logo=instagram&logoColor=" 
-target="_blank"></a>
-
-<!-- Link do linkedin -->
-<a href = "mailto:contato@juumarianoo27@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/juliannamariano" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div align="center">
-
