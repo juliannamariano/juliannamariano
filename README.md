@@ -16,7 +16,7 @@ Olá! Sou **Julianna Mariano**, estudante de **Sistemas de Informação**. Comun
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliannamariano/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/juliannamariano)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@juumarianoo/)
-[![Currículo](https://img.shields.io/badge/-Currículo-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)]()
+[![Currículo](https://img.shields.io/badge/-Currículo-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](https://docs.google.com/document/d/1NBjdXcXTQkjby0JWtnhhd0q9pPCpjdF37f7s9fSrV9k/edit?usp=sharing)
 
 ![snake gif](https://github.com/juliannamariano/juliannamariano/blob/output/github-contribution-grid-snake.gif)
 ##
