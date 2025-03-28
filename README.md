@@ -8,16 +8,6 @@ Olá! Sou **Julianna Mariano**, estudante de **Sistemas de Informação**. Comun
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliannamariano&theme=transparent&bg_color=#FFFFFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000) 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=juliannamariano&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliannamariano&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=60" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliannamariano&layout=compact&langs_count=5&theme=dark&card_width=320&cache_seconds=60" height="150" />
-</div>
 
 ##
 
